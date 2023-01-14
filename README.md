@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse é o Desafio #01: #boraCodar um player de música. 
 
-- [Acesse o projeto finalizado, online](https://nicolasxs.github.io/music-player)
+- [Acesse o projeto finalizado, online](https://nicolasxs.github.io/Music-Player/)
 
 - [Assistir aula](https://www.youtube.com/watch?v=M_eaBcany6Y&ab_channel=Rocketseat)
 
